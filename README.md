@@ -1,1 +1,4 @@
 # AndroidPrac
+
+
+## Project Notes
